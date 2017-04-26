@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sense Flower</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_flower">AddFlowerActivity</string>
+    <string name="title_activity_details_flower">DetailsFlowerActivity</string>
+    <string-array name="flores">
+        <item>Rosa</item>
+        <item>Margarida</item>
+    </string-array>
+</resources>
